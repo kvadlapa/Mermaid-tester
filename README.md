@@ -1,5 +1,5 @@
 # Mermaid-tester
-
+```mermaid
 flowchart LR
   %% ===== Edge and Networking =====
   subgraph EDGE[Edge and Networking]
@@ -115,3 +115,5 @@ flowchart LR
   PIPE --> EAPI
   PIPE --> DAPI
   PIPE --> PAPI
+```
+
